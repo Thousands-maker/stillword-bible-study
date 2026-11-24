@@ -23,3 +23,7 @@ In repository Settings → Pages, choose Deploy from a branch, then `main` and `
 ## Bible text
 
 The app includes a Bible chapter tracker, not the complete text of all 1,189 chapters.
+
+## Study Together — Reflect & Reveal
+
+Select **Study together** to choose any of the 90 Life of Christ lessons. Two people can take turns using a single device, answer three guided reflection questions privately, reveal their perspectives, then discuss with follow-up prompts. The app saves only the jointly agreed takeaway and completion status to browser local storage; individual responses stay temporary. This works offline and requires no account. It is a guided discussion, not a quiz or game.
